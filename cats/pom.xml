@@ -5,4 +5,10 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Cats Application</name>
   <description>App using spring framework, created with kobietydokodu.pl</description>
+  <url>http://kobietydokodu.pl/</url>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>koty-domain</module>
+  	<module>koty-application</module>
+  </modules>
 </project>
